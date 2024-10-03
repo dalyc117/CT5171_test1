@@ -1,1 +1,2 @@
-"Changed to IntelliJ"
+"Changed in IntelliJ"
+"Changed in GitHub Website"
